@@ -15,3 +15,7 @@ NFTs are rapidly becoming one of the most lucrative and exciting part of web 3.0
 - **Structs and Enums:** Enums and structs are used to create user-defined data types or structures in solidity
 - **Mapping:** mappings are used to store the data in the form of key-value pairs, a key can be any of the built-in data types but reference types are not allowed while the value can be of any type. It is similar to a dictionary in python
 
+## Materials
+- https://www.tutorialspoint.com/solidity/index.htm
+- https://www.youtube.com/watch?v=84j71K6wOCs&t=168s
+- https://www.geeksforgeeks.org/solidity-constructors/?ref=lbp
